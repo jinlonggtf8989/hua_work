@@ -1,0 +1,4 @@
+git add .
+git commit -m "fi"
+git push -u origin master
+git remote add origin https://www.github.com/jinlonggtf8989/hua_work.git
