@@ -5,3 +5,9 @@ git remote add origin https://www.github.com/jinlonggtf8989/hua_work.git
 git status
 git branch
 git commit -a -m "" 加的 -a 参数可以将所有已跟踪文件中的执行修改或删除操作的文件都提交到本地仓库，即使它们没有经过git add添加到暂存区
+git push <远程主机名> <本地分支名>：<远程分支名>
+例如：git push origin master:master
+git clone
+git pull
+git status
+git config add name
